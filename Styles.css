@@ -8,8 +8,8 @@ body {
 
 main {
     background-color: rgb(23, 23, 23);
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-bottom: 60px;
     border-radius: 20px;
     border: 4px rgb(0, 113, 243) solid;
@@ -38,8 +38,8 @@ p {
 
 .mainInfo {
     background-color: rgb(23, 23, 23);
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 30px;
     padding: 20px;
     border-radius: 20px;
@@ -48,8 +48,8 @@ p {
 
 .subinfo {
     background-color: rgb(23, 23, 23);
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 30px;
     padding: 20px;
     border-radius: 20px;
@@ -58,8 +58,8 @@ p {
 
 .agradecimientos {
     background-color: rgb(23, 23, 23);
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 30px;
     padding: 20px;
     border-radius: 20px;
@@ -88,8 +88,8 @@ p {
 
 .end {
     background-color: rgb(23, 23, 23);
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-bottom: 30px;
     padding: 20px;
     border-radius: 20px;
