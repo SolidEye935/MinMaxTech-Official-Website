@@ -1,0 +1,97 @@
+body {
+    background-image: url(BackGround2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main {
+    background-color: rgb(23, 23, 23);
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
+
+h1, h2, p {
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    text-align: center;
+}
+
+#mainTitle {
+    font-size: 50px;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: start;
+}
+
+.mainInfo {
+    background-color: rgb(23, 23, 23);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
+
+.subinfo {
+    background-color: rgb(23, 23, 23);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
+
+.agradecimientos {
+    background-color: rgb(23, 23, 23);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#img001, #img002, #img002_2, #img002_3, #img002_4, #img002_5, #img002_6 {
+    width: 60%;
+    margin: 20px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
+
+#img003 {
+    width: 30%;
+    margin: 20px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
+
+.end {
+    background-color: rgb(23, 23, 23);
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px rgb(0, 113, 243) solid;
+}
